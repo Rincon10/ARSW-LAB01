@@ -1,7 +1,7 @@
 
 ### Escuela Colombiana de Ingeniería
 ### Arquitecturas de Software - ARSW
-## Ejercicio Introducción al paralelismo - Hilos
+## Ejercicio Introducción al paralelismo - Hilos - Caso BlackListSearch
 
 ### Descripción
   Este ejercicio contiene una introducción a la programación con hilos en Java, además de la aplicación a un caso concreto.
